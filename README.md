@@ -3,7 +3,7 @@ Instrucciones:
 
 Resuelve cada pregunta en papel, o con un sketch de Processing. Para las preguntas que se resuelven en papel, sube las imágenes con tus respuestas (lo más nítidas posibles) en la carpeta correspondiente. Para los sketches de Processing, sube la carpeta del sketch en la carpeta correspondiente.
 
-1.Conviert de decimal a binario
+1.Convertir de decimal a binario
 
 2.Convierte de binario a decimal
 
