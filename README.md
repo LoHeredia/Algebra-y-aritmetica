@@ -1,2 +1,3 @@
 # Algebra-y-aritmetica
-Tarea o2 
+Tarea 02 
+1)Binario a Decimal
