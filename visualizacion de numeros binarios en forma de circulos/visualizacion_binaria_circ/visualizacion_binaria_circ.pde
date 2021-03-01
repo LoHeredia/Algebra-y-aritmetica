@@ -3,7 +3,7 @@ float size;
 
 void setup() {
   size(800, 800);
-  background(#0E91E5);
+  background(255);
   noLoop(); 
   size = width-70; //este size es para que salga centrado 
   stroke(0);
